@@ -49,5 +49,6 @@
     "skipThirdPartyRequests": true,
     "headless": true,
     "crawl": true
-  }
+  },
+
 }
